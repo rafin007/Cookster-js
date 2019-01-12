@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
-    "fraction.js": "^4.0.12"
+    "fraction.js": "^4.0.12",
+    "uniqid": "^5.0.3"
   }
 }
